@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @idahultgren!
+- 👋 Hi, I’m Ida!
 - 🌱 I’m currently learning JavaScript on my own. 
   
 - How to reach me:
