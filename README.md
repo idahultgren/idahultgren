@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ida!
-- 🌱 I’m currently learning JavaScript on my own. 
+- 🌱 I’m currently learning JavaScript on my own. My goal is to become a front-end developer!
   
 - How to reach me:
 - 📫idaa.hultgren@gmail.com
